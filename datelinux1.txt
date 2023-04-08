@@ -1,0 +1,15 @@
+Sat Apr  8 11:36:16 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        1.9G     0  1.9G   0% /dev
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           1.9G  512K  1.9G   1% /run
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+tmpfs           388M     0  388M   0% /run/user/1008
+  998  ps -ef | tail -n +2 
+  999  cd ThomasD
+ 1000  date >> Homework_Linux_27.03.txt
+ 1001  df -h >> Homework_Linux_27.03.txt
+ 1002  history | tail -n 5 >> Homework_Linux_27.03.txt
+vendor
+113
